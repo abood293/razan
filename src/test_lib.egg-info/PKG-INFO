@@ -3,7 +3,7 @@ Name: test-lib
 Version: 0.2.1
 Summary: A small example package
 Home-page: https://github.com/abood293/razan
-Author: Mohamed
+Author: razan
 Author-email: author@example.com
 License: UNKNOWN
 Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
