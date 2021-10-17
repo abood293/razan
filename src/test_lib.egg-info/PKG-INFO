@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: test-lib
 Version: 0.2.1
 Summary: A small example package
-Home-page: https://github.com/No-Name-404/test-lib
+Home-page: https://github.com/abood293/razan
 Author: Mohamed
 Author-email: author@example.com
 License: UNKNOWN
@@ -10,7 +10,7 @@ Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
 Description: # test-lib
         ### to install:
         ```bash
-        pip3 install test-lib
+        pip3 install razan
         ```
         
 Platform: UNKNOWN
