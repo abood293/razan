@@ -7,15 +7,15 @@ with open('requirements.txt','r') as fr:
     requires = fr.read().split('\n')
 
 setuptools.setup(
-    # pip3 install test-lib
-    name="test-lib", # Replace with your own username
+    # pip3 install razan
+    name="razan", # Replace with your own username
     version="0.2.1",
-    author="Mohamed",
+    author="razan",
     author_email="author@example.com",
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/No-Name-404/test-lib",
+    url="https://github.com/abood293/razan",
     project_urls={
         "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
     },
